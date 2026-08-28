@@ -244,37 +244,37 @@ O condomínio oferece lazer completo, com piscinas adulto e infantil, academia, 
 
 A localização no bairro Boqueirão se destaca por estar a aproximadamente 900 metros da praia, além da proximidade de vias de acesso, transporte público, hospitais e shopping, facilitando o acesso aos serviços urbanos e os deslocamentos em Praia Grande. Aceita financiamento bancário.]]></Description>
         <Features>
-          <Feature>Pets Allowed</Feature>
-          <Feature>Gym</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Pool</Feature>
-          <Feature>Playground</Feature>
-          <Feature>Party Room</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Disabled Access</Feature>
-          <Feature>Bicycles Place</Feature>
-          <Feature>Elevator</Feature>
-          <Feature>Sauna</Feature>
-          <Feature>Electronic Gate</Feature>
-          <Feature>Concierge 24h</Feature>
-          <Feature>Intercom</Feature>
-          <Feature>Balcony</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maid's Quarters</Feature>
-          <Feature>Parking Garage</Feature>
-          <Feature>Recreation Area</Feature>
-          <Feature>Close to main roads/avenues</Feature>
-          <Feature>Internet Connection</Feature>
-          <Feature>Close to public transportation</Feature>
-          <Feature>Close to hospitals</Feature>
-          <Feature>Near Shopping Center</Feature>
-          <Feature>Barbecue Balcony</Feature>
-          <Feature>Aluminium Window</Feature>
-          <Feature>Childrens Pool</Feature>
-          <Feature>Dinner Room</Feature>
-          <Feature>Adult Pool</Feature>
-          <Feature>Toys Place</Feature>
-        </Features>
+        <Feature>Pets Allowed</Feature>
+        <Feature>Gym</Feature>
+        <Feature>Gourmet Area</Feature>
+        <Feature>Pool</Feature>
+        <Feature>Playground</Feature>
+        <Feature>Party Room</Feature>
+        <Feature>Game room</Feature>
+        <Feature>Disabled Access</Feature>
+        <Feature>Bicycles Place</Feature>
+        <Feature>Elevator</Feature>
+        <Feature>Sauna</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Concierge 24h</Feature>
+        <Feature>Intercom</Feature>
+        <Feature>Balcony</Feature>
+        <Feature>Kitchen</Feature>
+        <Feature>Maid's Quarters</Feature>
+        <Feature>Parking Garage</Feature>
+        <Feature>Recreation Area</Feature>
+        <Feature>Close to main roads/avenues</Feature>
+        <Feature>Internet Connection</Feature>
+        <Feature>Close to public transportation</Feature>
+        <Feature>Close to hospitals</Feature>
+        <Feature>Near Shopping Center</Feature>
+        <Feature>Barbecue Balcony</Feature>
+        <Feature>Aluminium Window</Feature>
+        <Feature>Childrens Pool</Feature>
+        <Feature>Dinner Room</Feature>
+        <Feature>Adult Pool</Feature>
+        <Feature>Toys Place</Feature>
+      </Features>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -286,13 +286,13 @@ A localização no bairro Boqueirão se destaca por estar a aproximadamente 900 
         <PostalCode>11700-040</PostalCode>
       </Location>
       <Media>
-        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0d275dv2QgSlew3TYe8kXmw0YG0ucq+9ny6oIH8m7+e3-LBf+f8w4QGwaLuLQSbl411SNw3EUohSOd3bDjJWrC8J2B6ggjQmmf-CpZbWWRZ8yUttDhKzVycRLeW8WUVhjH4JM-niiHXSLHJXmJuGrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
-        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxdj7c8yxxwez8kfUeaesQO8-oLM6-Ceix+UxJDY+rWK2sWiQpjw15wbipyoDFSes5NHaeY1Yl9ybe8haTHQc5mLHkJOqgWj-lfzZZEYQGhX00QznjRxmHvlbceS3lFg+C6VAfTRtgjVTKL7HhlZLPxHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3Vry8Bw5RIiqdQVWr+OlXeN36+29u2dvBqfxrDworPK1MDTXJjp0oI194LpTV-wsvQ6Ws4HbURiReJLRCPmYZqcGF9qojel-12RTb5+TEdbmgcugT5P-F2rQpGU9n4PwgqMMdfojxSedqPJXF8MOd9HR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2xm6ehh0TMvkpo7UuWvjjDfwaPFuYbHkFbO0ZSHmI3l0+P9Xuj9wqti6rb6DVPzk-ZMSeIIHn9oV+p2bBL1eN6iDFxzgXy8jGbhHopXW3hv-TM7ykxo71jpBsKG+gQU0n7gL6iEqnGjaYbCUXgDF89HR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2hYjP1n9j4PkO9DRu677TS27oGR3+6zok2L-cnm54HB1uDHWPj+l7ATlPbTSgevkrI9Rt8caR5zfssjZBnLYZmyFUhKqQGJrxTDRJQWalgP219iky4ImUCrb52X6GwW1X+FUfj+9hHdRYX+C0R1HrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
-        <Item medium="image" caption="Foto 6">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxhF-f1po0sQtNFIYpybjA6+-qWk9uagi2+E1Z-KgPbn-J3RR5bpz4Y8+6faLWD2j6p9G90dGkA8Y9IiSSP4cILeIF16hwm2tnmcaaVFRWRt0V4jnyBfyVKURMGvy1AzwQe7G8PasDGUb4H3REZ8N8JHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 7">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3lp+t0ytwgyjPcwcp6skxuIgtSvutWUnF2q3suN4LjYiNjjW9+C2dAW-b-wL3mr4q9bHYB4AkJ-Oux8b0bjBI2iJCFVuSu9g07Kcp1IdDtxzlg9vhpw5Wy0AKmw21lsxg2JEf72sg+HZqTaAgRfPLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3lp+t0ytwgyjPcwcp6skxuIgtSvutWUnF2q3suN4LjYiNjjW9+C2dAW-b-wL3mr4q9bHYB4AkJ-Oux8b0bjBI2iJCFVuSu9g07Kcp1IdDtxzlg9vhpw5Wy0AKmw21lsxg2JEf72sg+HZqTaAgRfPLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0d275dv2QgSlew3TYe8kXmw0YG0ucq+9ny6oIH8m7+e3-LBf+f8w4QGwaLuLQSbl411SNw3EUohSOd3bDjJWrC8J2B6ggjQmmf-CpZbWWRZ8yUttDhKzVycRLeW8WUVhjH4JM-niiHXSLHJXmJuGrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxdj7c8yxxwez8kfUeaesQO8-oLM6-Ceix+UxJDY+rWK2sWiQpjw15wbipyoDFSes5NHaeY1Yl9ybe8haTHQc5mLHkJOqgWj-lfzZZEYQGhX00QznjRxmHvlbceS3lFg+C6VAfTRtgjVTKL7HhlZLPxHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3Vry8Bw5RIiqdQVWr+OlXeN36+29u2dvBqfxrDworPK1MDTXJjp0oI194LpTV-wsvQ6Ws4HbURiReJLRCPmYZqcGF9qojel-12RTb5+TEdbmgcugT5P-F2rQpGU9n4PwgqMMdfojxSedqPJXF8MOd9HR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2xm6ehh0TMvkpo7UuWvjjDfwaPFuYbHkFbO0ZSHmI3l0+P9Xuj9wqti6rb6DVPzk-ZMSeIIHn9oV+p2bBL1eN6iDFxzgXy8jGbhHopXW3hv-TM7ykxo71jpBsKG+gQU0n7gL6iEqnGjaYbCUXgDF89HR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 6">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2hYjP1n9j4PkO9DRu677TS27oGR3+6zok2L-cnm54HB1uDHWPj+l7ATlPbTSgevkrI9Rt8caR5zfssjZBnLYZmyFUhKqQGJrxTDRJQWalgP219iky4ImUCrb52X6GwW1X+FUfj+9hHdRYX+C0R1HrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 7">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxhF-f1po0sQtNFIYpybjA6+-qWk9uagi2+E1Z-KgPbn-J3RR5bpz4Y8+6faLWD2j6p9G90dGkA8Y9IiSSP4cILeIF16hwm2tnmcaaVFRWRt0V4jnyBfyVKURMGvy1AzwQe7G8PasDGUb4H3REZ8N8JHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
         <Item medium="image" caption="Foto 8">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu31M+eg+ozkkpcAwA4WzvTKgxLi+29jD-AGw+JPTgJP9+8qubu3x4r0y8qntFnGNnqlhVMBiNEFVQO1obzvnWrigAWJBoWevjVT0br1+QDZF+gQ0rAdf4WakQKSG3AQ6-xaMMezhpHaSYqTrBU5SKLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 9">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1w969FVoxYSr-Y5bo+snyWa1J2wvYrCqUrT27XImanSzJ-6Xerp1qoZ+o3yHWmgqZx+b-Y5HUJlULFZHya6YauALXtuozXUtFXVduFpeG5ux18oujha7WqWYaq3xkAe4Af8KdLdjByRYIPAWnJ9PLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 10">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0ZEldI2yzpvlNQheZ2i5SCN26iUzYqUtFaLwK3klauH4vPWX5fO2YEf66z-PHeNkrZnH-wqEV4gdtF0dxvIGqOrM3Fdph6wgkrUf7BAZlhI5A0ukkdJn1G3Q8SF3V4C+BCrDa7ApgWhQL-LA2B9NLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
@@ -7409,38 +7409,38 @@ O condomínio oferece lazer completo, com piscinas adulto e infantil, academia, 
 
 A localização no bairro Aviação oferece proximidade de escolas, vias de acesso e hospitais, facilitando o acesso aos serviços urbanos e os deslocamentos em Praia Grande. As condições comerciais devem ser confirmadas conforme a disponibilidade atual.]]></Description>
         <Features>
-          <Feature>Pets Allowed</Feature>
-          <Feature>Cooling</Feature>
-          <Feature>American Kitchen</Feature>
-          <Feature>Furnished</Feature>
-          <Feature>Gourmet Balcony</Feature>
-          <Feature>Gym</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Pool</Feature>
-          <Feature>Party Room</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Disabled Access</Feature>
-          <Feature>Bicycles Place</Feature>
-          <Feature>Coworking</Feature>
-          <Feature>Elevator</Feature>
-          <Feature>Sauna</Feature>
-          <Feature>Electronic Gate</Feature>
-          <Feature>Concierge 24h</Feature>
-          <Feature>Balcony</Feature>
-          <Feature>Recreation Area</Feature>
-          <Feature>Close to schools</Feature>
-          <Feature>Close to main roads/avenues</Feature>
-          <Feature>Close to hospitals</Feature>
-          <Feature>Kitchen Cabinets</Feature>
-          <Feature>Childrens Pool</Feature>
-          <Feature>Dinner Room</Feature>
-          <Feature>Blindex Box</Feature>
-          <Feature>Large Room</Feature>
-          <Feature>Adult Pool</Feature>
-          <Feature>Toys Place</Feature>
-          <Feature>Fitness Room</Feature>
-        </Features>
+        <Feature>Pets Allowed</Feature>
+        <Feature>Cooling</Feature>
+        <Feature>American Kitchen</Feature>
+        <Feature>Furnished</Feature>
+        <Feature>Gourmet Balcony</Feature>
+        <Feature>Gym</Feature>
+        <Feature>BBQ</Feature>
+        <Feature>Gourmet Area</Feature>
+        <Feature>Pool</Feature>
+        <Feature>Party Room</Feature>
+        <Feature>Game room</Feature>
+        <Feature>Disabled Access</Feature>
+        <Feature>Bicycles Place</Feature>
+        <Feature>Coworking</Feature>
+        <Feature>Elevator</Feature>
+        <Feature>Sauna</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Concierge 24h</Feature>
+        <Feature>Balcony</Feature>
+        <Feature>Recreation Area</Feature>
+        <Feature>Close to schools</Feature>
+        <Feature>Close to main roads/avenues</Feature>
+        <Feature>Close to hospitals</Feature>
+        <Feature>Kitchen Cabinets</Feature>
+        <Feature>Childrens Pool</Feature>
+        <Feature>Dinner Room</Feature>
+        <Feature>Blindex Box</Feature>
+        <Feature>Large Room</Feature>
+        <Feature>Adult Pool</Feature>
+        <Feature>Toys Place</Feature>
+        <Feature>Fitness Room</Feature>
+      </Features>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -7452,11 +7452,11 @@ A localização no bairro Aviação oferece proximidade de escolas, vias de aces
         <PostalCode>11702-510</PostalCode>
       </Location>
       <Media>
-        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtux8-7MpH9h4ygNQedoaUkwTW5bq+uu2XoGqT8oLHvZrnx-3aUJjSmaZjgfbcE0eL7LRuatUVaHpabbVwGzaxZa3aEnlQrRaMhn-AXapnE2NN3wgXy0Zz4nrnc92S5mwt+QG8KM7Hii2XTLq8IUVDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
-        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2p9zdxE6jYlz5oBRo+Pkg22xZ24zN2y6R230bCLo6vl4t3bU+nP+N0Yi-XrGxuprYN9Vv4qMGIiYNZKZjzPXraHYlpVj2Oom27cf4FtGmdZ+lluwDJLwXiLDKeByVo3hQP8B-HmtTOQe-3bPkRxPLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
-        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2p-zd5V+kw9ksVDRoHnggKb26qb9sumk0evxb3cou-g8Z+6Qt7g04c-8ZHSKHih6KFedsMgEk9HXvZ+GhblZ566JERchRfdhnjjEIVWbEBs7zwxoBN8xmriZZu16WJo9QiLEKrAix6Ba4vfAlFTQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
-        <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0ll-eJPuz40sOkUa6SSk3eJ2ZvPx4jGtEmV-svmsYuD39-eWsLf1L1k35SsCHCrkINVSsYkKGVrOOpDbjXLWqegNn5vuSuK+Bn3f4ViG3F60Ctspyhsm0qGRKCr7mkV8Cj5GeP3kDKXbKTmPwVlCrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
-        <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2VE2u5WxQkUsOY9RoDkuyaigpvKueeptVmc-5-dvK7k1MD8B8jix9gO-qjpP2a1qZNsaM0nFF0neddwSAX3B6mkZENr-ieQnliQc7ZKcXJr0gw7nT1U41++WrmDzgUa3DOuFtDGgBKNV4LZLF0MNLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2VE2u5WxQkUsOY9RoDkuyaigpvKueeptVmc-5-dvK7k1MD8B8jix9gO-qjpP2a1qZNsaM0nFF0neddwSAX3B6mkZENr-ieQnliQc7ZKcXJr0gw7nT1U41++WrmDzgUa3DOuFtDGgBKNV4LZLF0MNLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtux8-7MpH9h4ygNQedoaUkwTW5bq+uu2XoGqT8oLHvZrnx-3aUJjSmaZjgfbcE0eL7LRuatUVaHpabbVwGzaxZa3aEnlQrRaMhn-AXapnE2NN3wgXy0Zz4nrnc92S5mwt+QG8KM7Hii2XTLq8IUVDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
+        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2p9zdxE6jYlz5oBRo+Pkg22xZ24zN2y6R230bCLo6vl4t3bU+nP+N0Yi-XrGxuprYN9Vv4qMGIiYNZKZjzPXraHYlpVj2Oom27cf4FtGmdZ+lluwDJLwXiLDKeByVo3hQP8B-HmtTOQe-3bPkRxPLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2p-zd5V+kw9ksVDRoHnggKb26qb9sumk0evxb3cou-g8Z+6Qt7g04c-8ZHSKHih6KFedsMgEk9HXvZ+GhblZ566JERchRfdhnjjEIVWbEBs7zwxoBN8xmriZZu16WJo9QiLEKrAix6Ba4vfAlFTQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
+        <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0ll-eJPuz40sOkUa6SSk3eJ2ZvPx4jGtEmV-svmsYuD39-eWsLf1L1k35SsCHCrkINVSsYkKGVrOOpDbjXLWqegNn5vuSuK+Bn3f4ViG3F60Ctspyhsm0qGRKCr7mkV8Cj5GeP3kDKXbKTmPwVlCrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 6">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0Rb4Phg20ohoPI-V++gnALfhrfP6ImZj02Q+o2In5HEjpr5cMqA6bs7jb7vFUL1vf9KSN0pYnwoabBeeh26B6ueAllOgxyPvlfUZOceGHV18AR3kAZT3EqyYrWcq0459BGuJv7WljCXcKf4AgxlQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
         <Item medium="image" caption="Foto 7">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1hb545w9xtmopdDGbCg7DuO8InMv8WCql+HxpDQkrSex4b0R5mOlNkBz7T5Am+QuJR8bMwsa2lfetdKTjnRZ7qcBnJQhCGDmG-kSeZdHkppwCExoE1P5WSFYMOD72M9-nqDFvjvgS2VVIu2BlhWO7ZHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
         <Item medium="image" caption="Foto 8">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1tb-sBsujsZr+MJXrj74Gypg6TEus+H6XW117L645zXiOimZfbw4p8b6fbDC1CIvoRKWNklFntDIutkXSTMeKqsMXNtqQOztnLUVqlkSDd-2iQXnTJVy0a1AoibxRsW+iG6JPnagQClHZf3BkYMF9hHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
@@ -8984,24 +8984,24 @@ Localizada no bairro Tupi, a aproximadamente 380 metros da praia, em rua tranqui
         <Suites>1</Suites>
         <Garage>3</Garage>
         <Features>
-          <Feature>Pets Allowed</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Pool</Feature>
-          <Feature>Electronic Gate</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maid's Quarters</Feature>
-          <Feature>Parking Garage</Feature>
-          <Feature>Recreation Area</Feature>
-          <Feature>Close to schools</Feature>
-          <Feature>Close to main roads/avenues</Feature>
-          <Feature>Internet Connection</Feature>
-          <Feature>Close to public transportation</Feature>
-          <Feature>Close to hospitals</Feature>
-          <Feature>Near Shopping Center</Feature>
-          <Feature>Childrens Pool</Feature>
-          <Feature>Adult Pool</Feature>
-        </Features>
+        <Feature>Pets Allowed</Feature>
+        <Feature>BBQ</Feature>
+        <Feature>Gourmet Area</Feature>
+        <Feature>Pool</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Kitchen</Feature>
+        <Feature>Maid's Quarters</Feature>
+        <Feature>Parking Garage</Feature>
+        <Feature>Recreation Area</Feature>
+        <Feature>Close to schools</Feature>
+        <Feature>Close to main roads/avenues</Feature>
+        <Feature>Internet Connection</Feature>
+        <Feature>Close to public transportation</Feature>
+        <Feature>Close to hospitals</Feature>
+        <Feature>Near Shopping Center</Feature>
+        <Feature>Childrens Pool</Feature>
+        <Feature>Adult Pool</Feature>
+      </Features>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -9013,8 +9013,8 @@ Localizada no bairro Tupi, a aproximadamente 380 metros da praia, em rua tranqui
         <PostalCode>11703-260</PostalCode>
       </Location>
       <Media>
-        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Q739ZO1wdvzNIHe7DisBCpjr+E3e6ui3ah6ZDWj6HC6eilTtbs0rEj+5LoH1qen4pBfvUIbERgfuNzVFnWdLzeB0d4pyai+xTHF5t3Wkp4xQ0JrCxpgQeiepOz8HEP-nr7J9XvjQzcRrDoUX5zOLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
-        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxZl1cAxvQ4xqc4EYoiJo3PWwZ+m3-2TrmCWxbKIro-Y6vTwUvXR0aQu7YStD1D16-ZAbd4gF3peVvBxcjHaD6rbeScLuGDcpmboUOAcGEl-3kQ1uhAL4Hu3Xr3wp0A6+XC7MKKEsBCwca7vC05FLLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxZl1cAxvQ4xqc4EYoiJo3PWwZ+m3-2TrmCWxbKIro-Y6vTwUvXR0aQu7YStD1D16-ZAbd4gF3peVvBxcjHaD6rbeScLuGDcpmboUOAcGEl-3kQ1uhAL4Hu3Xr3wp0A6+XC7MKKEsBCwca7vC05FLLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Q739ZO1wdvzNIHe7DisBCpjr+E3e6ui3ah6ZDWj6HC6eilTtbs0rEj+5LoH1qen4pBfvUIbERgfuNzVFnWdLzeB0d4pyai+xTHF5t3Wkp4xQ0JrCxpgQeiepOz8HEP-nr7J9XvjQzcRrDoUX5zOLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1tBwog23FIDiNY-X4XvkwuD-qSfyvK2pXqR3LP04KjF7uCgU-DP0Zs5157IGXiSj5VhesYBMRopftFYWzDaD6KFBFNwvyGv-0rTYqtqWi9N2kQ0ggZ123eXXZihzl8V3SepFvfitX+taJL-D39xSbMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu31mjOAwuUYfmPAaBY3m4wuA99mJ7M+7gG2kwJ+Iu6jQ7tH8WM7sybEz2K3XFHPzqaNoGs05HBBAd7ciaA7VRNfeNnpmkmOw9m-NYJ1UWTp7+QEKugx+6Xmbd6L18k8L2CumWtfjgzaKVoDZLwdRGrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0Rs6IpJ5SwklfMHGe+ShwSpgLiY5oeE82uH+taPge75-+zGY5eG8ds9lPfKH0Kyr4BmA9EubGBdSOVDYSO1Aa6QZmJ+vz+DqEbXErkaelprhC0JmRMKywSGV5Ss2WNsgSv1WuKEiB+8Tbq-G0NDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
@@ -10786,45 +10786,45 @@ O condomínio oferece piscinas adulto e infantil, academia, espaço fitness, qua
 
 Localizado a aproximadamente 200 metros da praia, o imóvel também fica próximo de escolas, vias de acesso, transporte público, hospitais e shopping, facilitando a rotina em Praia Grande.]]></Description>
         <Features>
-          <Feature>Pets Allowed</Feature>
-          <Feature>Cooling</Feature>
-          <Feature>Furnished</Feature>
-          <Feature>Gourmet Balcony</Feature>
-          <Feature>Gym</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Pool</Feature>
-          <Feature>Playground</Feature>
-          <Feature>Sports Court</Feature>
-          <Feature>Party Room</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Disabled Access</Feature>
-          <Feature>Bicycles Place</Feature>
-          <Feature>Coworking</Feature>
-          <Feature>Elevator</Feature>
-          <Feature>Sauna</Feature>
-          <Feature>Electronic Gate</Feature>
-          <Feature>Concierge 24h</Feature>
-          <Feature>Intercom</Feature>
-          <Feature>Balcony</Feature>
-          <Feature>Recreation Area</Feature>
-          <Feature>TV Security</Feature>
-          <Feature>Close to schools</Feature>
-          <Feature>Close to main roads/avenues</Feature>
-          <Feature>Internet Connection</Feature>
-          <Feature>Close to public transportation</Feature>
-          <Feature>Close to hospitals</Feature>
-          <Feature>Near Shopping Center</Feature>
-          <Feature>Ocean View</Feature>
-          <Feature>Kitchen Cabinets</Feature>
-          <Feature>Childrens Pool</Feature>
-          <Feature>Dinner Room</Feature>
-          <Feature>Blindex Box</Feature>
-          <Feature>Large Room</Feature>
-          <Feature>Adult Pool</Feature>
-          <Feature>Toys Place</Feature>
-          <Feature>Fitness Room</Feature>
-        </Features>
+        <Feature>Pets Allowed</Feature>
+        <Feature>Cooling</Feature>
+        <Feature>Furnished</Feature>
+        <Feature>Gourmet Balcony</Feature>
+        <Feature>Gym</Feature>
+        <Feature>BBQ</Feature>
+        <Feature>Gourmet Area</Feature>
+        <Feature>Pool</Feature>
+        <Feature>Playground</Feature>
+        <Feature>Sports Court</Feature>
+        <Feature>Party Room</Feature>
+        <Feature>Game room</Feature>
+        <Feature>Disabled Access</Feature>
+        <Feature>Bicycles Place</Feature>
+        <Feature>Coworking</Feature>
+        <Feature>Elevator</Feature>
+        <Feature>Sauna</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Concierge 24h</Feature>
+        <Feature>Intercom</Feature>
+        <Feature>Balcony</Feature>
+        <Feature>Recreation Area</Feature>
+        <Feature>TV Security</Feature>
+        <Feature>Close to schools</Feature>
+        <Feature>Close to main roads/avenues</Feature>
+        <Feature>Internet Connection</Feature>
+        <Feature>Close to public transportation</Feature>
+        <Feature>Close to hospitals</Feature>
+        <Feature>Near Shopping Center</Feature>
+        <Feature>Ocean View</Feature>
+        <Feature>Kitchen Cabinets</Feature>
+        <Feature>Childrens Pool</Feature>
+        <Feature>Dinner Room</Feature>
+        <Feature>Blindex Box</Feature>
+        <Feature>Large Room</Feature>
+        <Feature>Adult Pool</Feature>
+        <Feature>Toys Place</Feature>
+        <Feature>Fitness Room</Feature>
+      </Features>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -10836,14 +10836,14 @@ Localizado a aproximadamente 200 metros da praia, o imóvel também fica próxim
         <PostalCode>11703-000</PostalCode>
       </Location>
       <Media>
-        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu38-8YtR4Ulhn9cEdY6vtRnc4Ze399uZ-W+TycvI4Kzn+Niudf36xIEw75zIEHPyvYF+Y-coLHtVd-lAVxjBeIOhNkEO5gWxnFn8SOJLRXZ43yMukB5dyXuCasmX1HksyXqVLdfkmirWfbjPB0cCP-hHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1lfyvFD-DkEz9chXLbhhBiw8a+71s6VnRuJ9a74vuKFipv+Vcbs+aEh1p-4HEGtop5HHpkEHW1TYMpDZCDMf9e9FUoBkzfQ-1vyUbUXc0oK-ScRkztZ9mWHaof92XsB1h2nM8jvpR6vQJfmClp8S+hHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxg-+v1zvhUBtvIjRI+0gg7Y4dyQ19ihnFy0pMnHprPw8-Pifpf4kbogy7+qTm6UjZ47Y4EICgVjYrR6R0L4dcKyY2d6nSeTt1zKQYccUnJp1gUTlhJo+EqEdLG23nA52i71EevUtRWJboD7DWtDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
-        <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtux5NzeNXuTkViO8GDLyblhOOhrLMzOCppVqt0ZeOmo-ShZjdX+bUw4Y9yoXVS3KLurR+a-M8HlJ2PvZHb0PhBqzfA0BghCnRvGjRQIxpf3Br8x0uy1JPyXS8VMCO+lQA0gO3EfmdiXSVZ5i9AhlOFuFHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2xpydRT+iodlfZHRL6T5Tje74O41-mwskKN-oPTlrzCitLCbuD06YEe3bCvO2mr7axGZoELdh5dOuAlZTb1YJmQIlR-mgm0qE-6c5UZTTQK0SwAugUI4EKYUpaq2g4ahB35E-TTpwqHTJv7AVZRS-pHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 6">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1dC7vV0-Toik+oiZ5zklQm+zt6Z3PiUs1Wo56rLoK-x9u3zf8vAzYYeyfTjCVCFsp5aGMd2Nl5-ZsNFfgHAA57cYV5gvgaT+RrxZb1WGkBO7hwIsBJW51W+U5GI12Ae8Bu-LarzuA2yfJnrWVUHErMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
-        <Item medium="image" caption="Foto 7">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Ji3OBg+0oyzJAifuLgsQ+A+pmu58yigUuv5ML9mbzi5cLxAM7B46UZ3r-IKky0ofdaRNgNaUlhYNBxe0XnU7vcMCVwiQjTrX3gReYXX0d1-Ag8rjFo60GfGLu163th9DmkK-DSjSqWcfD2JgAAHMpHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 8">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu31V6ddX+U4ekJYTZeO6jBmG1aiK-s3AqlTNoZ3MsL3K7-LNfeWF5YUkgPH3SWGwiLxAHJkHHE56fMlHGUzyU6PfeUBBiQu1hUD9fadBfUp0hTEfoB5v9Ea0f4T95mQ9i3GbCrbV9SOhb6HrPnd-ErMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu31V6ddX+U4ekJYTZeO6jBmG1aiK-s3AqlTNoZ3MsL3K7-LNfeWF5YUkgPH3SWGwiLxAHJkHHE56fMlHGUzyU6PfeUBBiQu1hUD9fadBfUp0hTEfoB5v9Ea0f4T95mQ9i3GbCrbV9SOhb6HrPnd-ErMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu38-8YtR4Ulhn9cEdY6vtRnc4Ze399uZ-W+TycvI4Kzn+Niudf36xIEw75zIEHPyvYF+Y-coLHtVd-lAVxjBeIOhNkEO5gWxnFn8SOJLRXZ43yMukB5dyXuCasmX1HksyXqVLdfkmirWfbjPB0cCP-hHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1lfyvFD-DkEz9chXLbhhBiw8a+71s6VnRuJ9a74vuKFipv+Vcbs+aEh1p-4HEGtop5HHpkEHW1TYMpDZCDMf9e9FUoBkzfQ-1vyUbUXc0oK-ScRkztZ9mWHaof92XsB1h2nM8jvpR6vQJfmClp8S+hHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxg-+v1zvhUBtvIjRI+0gg7Y4dyQ19ihnFy0pMnHprPw8-Pifpf4kbogy7+qTm6UjZ47Y4EICgVjYrR6R0L4dcKyY2d6nSeTt1zKQYccUnJp1gUTlhJo+EqEdLG23nA52i71EevUtRWJboD7DWtDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
+        <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtux5NzeNXuTkViO8GDLyblhOOhrLMzOCppVqt0ZeOmo-ShZjdX+bUw4Y9yoXVS3KLurR+a-M8HlJ2PvZHb0PhBqzfA0BghCnRvGjRQIxpf3Br8x0uy1JPyXS8VMCO+lQA0gO3EfmdiXSVZ5i9AhlOFuFHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 6">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2xpydRT+iodlfZHRL6T5Tje74O41-mwskKN-oPTlrzCitLCbuD06YEe3bCvO2mr7axGZoELdh5dOuAlZTb1YJmQIlR-mgm0qE-6c5UZTTQK0SwAugUI4EKYUpaq2g4ahB35E-TTpwqHTJv7AVZRS-pHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 7">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1dC7vV0-Toik+oiZ5zklQm+zt6Z3PiUs1Wo56rLoK-x9u3zf8vAzYYeyfTjCVCFsp5aGMd2Nl5-ZsNFfgHAA57cYV5gvgaT+RrxZb1WGkBO7hwIsBJW51W+U5GI12Ae8Bu-LarzuA2yfJnrWVUHErMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 8">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Ji3OBg+0oyzJAifuLgsQ+A+pmu58yigUuv5ML9mbzi5cLxAM7B46UZ3r-IKky0ofdaRNgNaUlhYNBxe0XnU7vcMCVwiQjTrX3gReYXX0d1-Ag8rjFo60GfGLu163th9DmkK-DSjSqWcfD2JgAAHMpHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
         <Item medium="image" caption="Foto 9">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxc+zIhiwkxhtJsyBp-njnif05e3ytiQnBjO8pmKsaLm7MjuXdnO0boRy--sTVKwnLI-aeU1KUZJSbR5bEK1QJ2DPV1K5ifTombPa5hXHDNI1lwPzwtqxQrnf4C9-mAL-TqICKjEgDyWSJndEE5VNLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 10">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1xqy4JL7wojluk5RZinohuC35ib3MiIiEPJqIr14uvQzZOhYubk+r1i76j+N1GtgaNmRdshIxF9ZNFYaQ7OTrueN3YMnCmLiBzSc+ZUYk4O9i4CkR5ey1aaWbyzq18w5Br8IMLzu3WTHJ-MPlNDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
         <Item medium="image" caption="Foto 11">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0xoleJQvDVvscEyfuSxtS+Oxr7N3cyerHbP15TXgeyC4tqkQ8v5jYUG4aPeEFv0toc4A+IYK2Vbbcp8ZCHRQ6mYPnlyrD+Wux3cELV5eDpu9gNoyjEK1nGcfbvy6Btp4nyLIt3ejHKDFL79HmNDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
@@ -11406,42 +11406,42 @@ O condomínio oferece piscinas adulto e infantil, academia, espaço fitness, qua
 
 Localizado a aproximadamente 200 metros da praia, o imóvel também fica próximo de escolas, vias de acesso, transporte público, hospitais e shopping. Há possibilidade de financiamento bancário.]]></Description>
         <Features>
-          <Feature>Pets Allowed</Feature>
-          <Feature>Cooling</Feature>
-          <Feature>Furnished</Feature>
-          <Feature>Gourmet Balcony</Feature>
-          <Feature>Gym</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Pool</Feature>
-          <Feature>Playground</Feature>
-          <Feature>Sports Court</Feature>
-          <Feature>Party Room</Feature>
-          <Feature>Game room</Feature>
-          <Feature>Disabled Access</Feature>
-          <Feature>Bicycles Place</Feature>
-          <Feature>Elevator</Feature>
-          <Feature>Sauna</Feature>
-          <Feature>Electronic Gate</Feature>
-          <Feature>Concierge 24h</Feature>
-          <Feature>Intercom</Feature>
-          <Feature>Parking Garage</Feature>
-          <Feature>TV Security</Feature>
-          <Feature>Close to schools</Feature>
-          <Feature>Close to main roads/avenues</Feature>
-          <Feature>Internet Connection</Feature>
-          <Feature>Close to public transportation</Feature>
-          <Feature>Close to hospitals</Feature>
-          <Feature>Near Shopping Center</Feature>
-          <Feature>Barbecue Balcony</Feature>
-          <Feature>Kitchen Cabinets</Feature>
-          <Feature>Childrens Pool</Feature>
-          <Feature>Dinner Room</Feature>
-          <Feature>Adult Pool</Feature>
-          <Feature>Toys Place</Feature>
-          <Feature>Fitness Room</Feature>
-          <Feature>Panoramic View</Feature>
-        </Features>
+        <Feature>Pets Allowed</Feature>
+        <Feature>Cooling</Feature>
+        <Feature>Furnished</Feature>
+        <Feature>Gourmet Balcony</Feature>
+        <Feature>Gym</Feature>
+        <Feature>BBQ</Feature>
+        <Feature>Gourmet Area</Feature>
+        <Feature>Pool</Feature>
+        <Feature>Playground</Feature>
+        <Feature>Sports Court</Feature>
+        <Feature>Party Room</Feature>
+        <Feature>Game room</Feature>
+        <Feature>Disabled Access</Feature>
+        <Feature>Bicycles Place</Feature>
+        <Feature>Elevator</Feature>
+        <Feature>Sauna</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Concierge 24h</Feature>
+        <Feature>Intercom</Feature>
+        <Feature>Parking Garage</Feature>
+        <Feature>TV Security</Feature>
+        <Feature>Close to schools</Feature>
+        <Feature>Close to main roads/avenues</Feature>
+        <Feature>Internet Connection</Feature>
+        <Feature>Close to public transportation</Feature>
+        <Feature>Close to hospitals</Feature>
+        <Feature>Near Shopping Center</Feature>
+        <Feature>Barbecue Balcony</Feature>
+        <Feature>Kitchen Cabinets</Feature>
+        <Feature>Childrens Pool</Feature>
+        <Feature>Dinner Room</Feature>
+        <Feature>Adult Pool</Feature>
+        <Feature>Toys Place</Feature>
+        <Feature>Fitness Room</Feature>
+        <Feature>Panoramic View</Feature>
+      </Features>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -11453,9 +11453,9 @@ Localizado a aproximadamente 200 metros da praia, o imóvel também fica próxim
         <PostalCode>11704-030</PostalCode>
       </Location>
       <Media>
-        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Rt9sxp6hMgleBIQL215gWXhabJ1evBpmGH3YzymuPh8d3RRsDR-98w26D9G2GwjKpOR-Uean9ATswrbDz3U4WbHChrhiTR+2iXUZFdXzdQ5ic9gTJQ81iobJe25VFggziEIqvV8xmzS4e+MXNDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
-        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1hniPFZzQ4cjug0fKKepymfgd2PuOXJ9lW9yqzrlpPG2ujFUJaA6oYj7+v3Qwf9saFgfPFiPk9Ja+xFGSXHaNjdOyEOhBiIiHyITpkWYFRy-gwikh1uwQLhBp2X3AUWwQi+JNr9qQu7a6K+DVxlQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
-        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxhZ2vVZ+i5lv-I4BriV5gKm4oWN382jtVm3oajXsrf9i-nUTPvZ78Uij5f5DVr1rb5eSPU8M39ff8hzGjDzfJuEO1RxjWasjGbDfaBcZm163z4wkzZZ4AeZbLmUyVI7hx2qE8HphS2TRf3NOXZ3FdtHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxhZ2vVZ+i5lv-I4BriV5gKm4oWN382jtVm3oajXsrf9i-nUTPvZ78Uij5f5DVr1rb5eSPU8M39ff8hzGjDzfJuEO1RxjWasjGbDfaBcZm163z4wkzZZ4AeZbLmUyVI7hx2qE8HphS2TRf3NOXZ3FdtHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Rt9sxp6hMgleBIQL215gWXhabJ1evBpmGH3YzymuPh8d3RRsDR-98w26D9G2GwjKpOR-Uean9ATswrbDz3U4WbHChrhiTR+2iXUZFdXzdQ5ic9gTJQ81iobJe25VFggziEIqvV8xmzS4e+MXNDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
+        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1hniPFZzQ4cjug0fKKepymfgd2PuOXJ9lW9yqzrlpPG2ujFUJaA6oYj7+v3Qwf9saFgfPFiPk9Ja+xFGSXHaNjdOyEOhBiIiHyITpkWYFRy-gwikh1uwQLhBp2X3AUWwQi+JNr9qQu7a6K+DVxlQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
         <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0FL3c1+zRIFu9c-fp61gg3b+8CJ-ffBgW7G1bn25Y-yisL8fP7V-5A6gPb-G0WNnfJsaucpFVh7TdFWaQf4XaO-JndWqmeO-FnjRqtlb1hVxgA0iE9s3QudfqW1qGE5xiW9KKnnrwi8XKDePm1lQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
         <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0x57MNp6Rw5rZY0Rq7nmia87ped4e2foFudopTTgZqA9Oziddbwy8UcyITVI3iQnqJkYuMhH0R4ReN9WkT2WrytYT1JpxitoEnHa6MDTTtIwDYJqA10ngeCDJ-x3Wxu9gL9DfjDlATXHYHUHHJ4CrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 6">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1xHztRr7BsstugBbYad4jO57KysouW9jF2o367XpJfV4p7fXpvP-5Iz-fDXC12e6pxsS4J7bkZzTvUkVTvbY5WAI1NsuBvRnlecc4UXUnZPwhFvzzxz1XeQYYaL12QSyRP9O67KmgSpXYrkOnByE7ZHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
@@ -12390,24 +12390,24 @@ A localização é outro ponto forte: o imóvel está a aproximadamente 400 metr
         <Suites>2</Suites>
         <Garage>2</Garage>
         <Features>
-          <Feature>Cooling</Feature>
-          <Feature>Furnished</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Electronic Gate</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Maid's Quarters</Feature>
-          <Feature>Parking Garage</Feature>
-          <Feature>Recreation Area</Feature>
-          <Feature>TV Security</Feature>
-          <Feature>Close to schools</Feature>
-          <Feature>Close to main roads/avenues</Feature>
-          <Feature>Internet Connection</Feature>
-          <Feature>Close to public transportation</Feature>
-          <Feature>Close to hospitals</Feature>
-          <Feature>Near Shopping Center</Feature>
-          <Feature>Builtin Wardrobe</Feature>
-        </Features>
+        <Feature>Cooling</Feature>
+        <Feature>Furnished</Feature>
+        <Feature>BBQ</Feature>
+        <Feature>Gourmet Area</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Kitchen</Feature>
+        <Feature>Maid's Quarters</Feature>
+        <Feature>Parking Garage</Feature>
+        <Feature>Recreation Area</Feature>
+        <Feature>TV Security</Feature>
+        <Feature>Close to schools</Feature>
+        <Feature>Close to main roads/avenues</Feature>
+        <Feature>Internet Connection</Feature>
+        <Feature>Close to public transportation</Feature>
+        <Feature>Close to hospitals</Feature>
+        <Feature>Near Shopping Center</Feature>
+        <Feature>Builtin Wardrobe</Feature>
+      </Features>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -12419,8 +12419,8 @@ A localização é outro ponto forte: o imóvel está a aproximadamente 400 metr
         <PostalCode>11702-200</PostalCode>
       </Location>
       <Media>
-        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0tZiOBs4TgfjPU-GYeB4nKZwLm2xs6TqV2qoYiTs7je1cDgbdfZ5Kw4ypXPNxuPvpN9Yt47F21bVdViZTu0WNipEXZMjieAvUz6fapnQlpOhj03n0oBzwG-RsOl51QXgnmcJ-Xllx+AFJ-PLUx1F8NHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu35p6Y98uRZgvZcnd77goTeA4r2y6demiWWI88r1kOPL-p35ep-84twPy6KvK1uVv6hAb4wQGmpbf-VffyvYB5u5Z3sMpxfTuhT8SZJ6W2BFwQoOqD5q4XyoXbK37Gk6yyP4VvPiqADRQLrMM3FWSbMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu35p6Y98uRZgvZcnd77goTeA4r2y6demiWWI88r1kOPL-p35ep-84twPy6KvK1uVv6hAb4wQGmpbf-VffyvYB5u5Z3sMpxfTuhT8SZJ6W2BFwQoOqD5q4XyoXbK37Gk6yyP4VvPiqADRQLrMM3FWSbMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0tZiOBs4TgfjPU-GYeB4nKZwLm2xs6TqV2qoYiTs7je1cDgbdfZ5Kw4ypXPNxuPvpN9Yt47F21bVdViZTu0WNipEXZMjieAvUz6fapnQlpOhj03n0oBzwG-RsOl51QXgnmcJ-Xllx+AFJ-PLUx1F8NHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
         <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Nr7OlHxiknu8k2ZZ2ghieAhKWf+P2Wm3bPpovGs77Rxd3SAufS47xj1ZfEInWnuZVlbPh-CENaXckqWgT4To2QLCIJ5mKNuhrXTOFsSkZP51wwrUtb5we6eIebzAYA3Su-WsvV7y+cSIvrCE5zLbZHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
         <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3gizOhQuBVlk5I3a6W7sXeX-76u2szFp3bKo5j6lKv8jJjfeMqb2qE-3v7UAFj9ibBdQ-EYDk8nR9RbRjnNU4jQJlZJ8z+c+UTTUeVnXF15wj0wzjxh812EQZud1VUVhQ-8FMrqu2uUV6y4DlkZTOtHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
         <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxt-5+xf4BsXj-YYW7jklQqB4o6Z3P2lj2eT2KqKo7eK7M76YO3G4YEi8YTdI1G+4pZSGMU1Ok9ae7FIaRzNZZyxEnFulBe2uRXDeOsbUUxL5iQ9vElVx17kdMGCsnkI4R6FNMP6u3alfIX+IVIARbMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
@@ -13556,24 +13556,24 @@ Localizada a aproximadamente 335 metros da praia. Aceita financiamento bancário
         <Suites>1</Suites>
         <Garage>3</Garage>
         <Features>
-          <Feature>Pets Allowed</Feature>
-          <Feature>Cooling</Feature>
-          <Feature>Furnished</Feature>
-          <Feature>BBQ</Feature>
-          <Feature>Gourmet Area</Feature>
-          <Feature>Disabled Access</Feature>
-          <Feature>Electronic Gate</Feature>
-          <Feature>Kitchen</Feature>
-          <Feature>Parking Garage</Feature>
-          <Feature>Recreation Area</Feature>
-          <Feature>TV Security</Feature>
-          <Feature>Close to schools</Feature>
-          <Feature>Close to main roads/avenues</Feature>
-          <Feature>Internet Connection</Feature>
-          <Feature>Close to public transportation</Feature>
-          <Feature>Close to hospitals</Feature>
-          <Feature>Near Shopping Center</Feature>
-        </Features>
+        <Feature>Pets Allowed</Feature>
+        <Feature>Cooling</Feature>
+        <Feature>Furnished</Feature>
+        <Feature>BBQ</Feature>
+        <Feature>Gourmet Area</Feature>
+        <Feature>Disabled Access</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Kitchen</Feature>
+        <Feature>Parking Garage</Feature>
+        <Feature>Recreation Area</Feature>
+        <Feature>TV Security</Feature>
+        <Feature>Close to schools</Feature>
+        <Feature>Close to main roads/avenues</Feature>
+        <Feature>Internet Connection</Feature>
+        <Feature>Close to public transportation</Feature>
+        <Feature>Close to hospitals</Feature>
+        <Feature>Near Shopping Center</Feature>
+      </Features>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -13585,9 +13585,9 @@ Localizada a aproximadamente 335 metros da praia. Aceita financiamento bancário
         <PostalCode>11702-020</PostalCode>
       </Location>
       <Media>
-        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1hL2fJS+0xgu+03V5XgtnKd0dzFyO7Fg3-KxM+ToO7GyfLaVd-a4q4Hy778GEWFsLM0GuEZaXFaQrI-HAW3D4zQJWF1kT2NmRnRVqRIcUZbxSstmgV21Wa3dIaMq2Ig-wGeVPLz8iONU7HrBXMHHrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
-        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3Bp9OM-3C8ftJcIGbucsBOczJmY-ciUi2qq0s3SmKL0jufyRu6AzIM545bpE173l5B5aIQoGEBYQ8RAYQ7FbaaFOX1AiDTT+hXSQet8ZXNpxh4irgxgm3jnTLXxr1cR3Q74FNOE7wrQb5H-JmBuPtlHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
-        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2pN1-8x+BgBle9DDLWikwTd54m04uqk93TJ5bCNk7n19dvvXpfj8aEj3avzQl6VtIV5Fo09K3xLabR7RT7McIrfZlNtvDWx-RvtZONfbGlJ0zMymz0NmXjiBZiS9VB15B2lO9-Hg3+LV7zHBgZbDutHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2pN1-8x+BgBle9DDLWikwTd54m04uqk93TJ5bCNk7n19dvvXpfj8aEj3avzQl6VtIV5Fo09K3xLabR7RT7McIrfZlNtvDWx-RvtZONfbGlJ0zMymz0NmXjiBZiS9VB15B2lO9-Hg3+LV7zHBgZbDutHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
+        <Item medium="image" caption="Foto 2">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu1hL2fJS+0xgu+03V5XgtnKd0dzFyO7Fg3-KxM+ToO7GyfLaVd-a4q4Hy778GEWFsLM0GuEZaXFaQrI-HAW3D4zQJWF1kT2NmRnRVqRIcUZbxSstmgV21Wa3dIaMq2Ig-wGeVPLz8iONU7HrBXMHHrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
+        <Item medium="image" caption="Foto 3">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3Bp9OM-3C8ftJcIGbucsBOczJmY-ciUi2qq0s3SmKL0jufyRu6AzIM545bpE173l5B5aIQoGEBYQ8RAYQ7FbaaFOX1AiDTT+hXSQet8ZXNpxh4irgxgm3jnTLXxr1cR3Q74FNOE7wrQb5H-JmBuPtlHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
         <Item medium="image" caption="Foto 4">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0V1394zxCk-ypUkcpmuv3erh6uL1eDJrk+W95DplLjS19yuBuXY0oIS34n-D0WK9rFSZNcsLEV1ee8jVSXSeL6PPXJquwKOoUrraJgeRHFemhhiy00LwVuiAKKO9W8gyzmsV9H6kTOJe7jcGXpGRbMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
         <Item medium="image" caption="Foto 5">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3831OhnyDBjvcVJe+flviCbj5-Mx8aLhR6n1KuIo7b54pzFV87h5t9g9LPVNESxvrdCXM46b09HYeQmSxm7AISlJHEJqmOs-3XHHrVJckdN-zYcyjdXzUKob4WRx1QQgDv-F+H5kH6hVb7cREJDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
         <Item medium="image" caption="Foto 6">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0Bg-tNM0Shmk9QhXriZ7AXXgduRy-OI8VzI2bbvne308574Zp3O6twzyJLdFnmT76lJHNcqYkxQW+dnVzG0TauSJkNpvTOS9kXEd5VjaGx-0iQNlgkO61SiQaj88W8zgDGdMdj+8HOtFormPGsBDrMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
