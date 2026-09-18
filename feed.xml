@@ -430,7 +430,7 @@ Localização estratégica no Boqueirão, próximo ao centro da cidade e à ativ
     
     
     <Listing>
-      <ListingID>AP33880-CL</ListingID>
+      <ListingID>AP33880</ListingID>
       <Title><![CDATA[Canto do Forte • 83 m² • 2 Suítes • Vista Mar • 100m da Praia • Mobiliado • Espaço Gourmet]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -440,7 +440,7 @@ Localização estratégica no Boqueirão, próximo ao centro da cidade e à ativ
         <ListPrice currency="BRL">549000</ListPrice>
         <PropertyAdministrationFee currency="BRL">1076</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">549</Iptu>
-        <LivingArea unit="square metres">83</LivingArea>
+        <LivingArea unit="square metres">93</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Suites>2</Suites>
         <Bathrooms>3</Bathrooms>
@@ -486,9 +486,9 @@ A localização no bairro Canto do Forte se destaca por estar a aproximadamente 
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Canto do Forte</Neighborhood>
-        <Address>Rua Rui Barbosa</Address>
-        <StreetNumber>123</StreetNumber>
-        <PostalCode>11700-170</PostalCode>
+        <Address>Avenida Marechal Hermes</Address>
+        <StreetNumber>329</StreetNumber>
+        <PostalCode>11700-250</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3180vhD4TEXvfo8AJzj+QCM5K-Mw-WahUXTxbTqorf81PLmf96D8q4a86TPPniKvKNnduIEDH0iUOhAeBK3e5mxBVIKhCfJrV7kHr0XbU5o2DgYujRq-wCJBZSs6QI95CW9NO3o+yHJF-H2IHFyKLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
@@ -547,7 +547,7 @@ A localização no bairro Canto do Forte se destaca por estar a aproximadamente 
     </Listing>
     
     <Listing>
-      <ListingID>AP8415-CL</ListingID>
+      <ListingID>AP8415</ListingID>
       <Title><![CDATA[Tupi • 80 m² • 2 Dorms com Suíte • Varanda Gourmet • Vista Mar • Lazer Completo • Mobiliado]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -557,7 +557,7 @@ A localização no bairro Canto do Forte se destaca por estar a aproximadamente 
         <ListPrice currency="BRL">505000</ListPrice>
         <PropertyAdministrationFee currency="BRL">580</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">465</Iptu>
-        <LivingArea unit="square metres">80</LivingArea>
+        <LivingArea unit="square metres">89</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Suites>1</Suites>
         <Bathrooms>2</Bathrooms>
@@ -614,9 +614,9 @@ A localização no bairro Tupi oferece proximidade de escolas, vias de acesso, t
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Tupi</Neighborhood>
-        <Address>Rua Carajás</Address>
-        <StreetNumber>86</StreetNumber>
-        <PostalCode>11703-740</PostalCode>
+        <Address>Rua Pajé</Address>
+        <StreetNumber>312</StreetNumber>
+        <PostalCode>11703-330</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0ZVz98r5hgmttM-f5OQnXifwdTN++2ohX3JoJ37k5j++dPNRYLexNtg6ZfOTnnykY9fR41+C10iX-tXexvmT5eLPXpKpT2iuh7SSLhxUXtI3QExoiZX4VuffsKK-nhr5yGCK62FryqqEIX9GHllQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
@@ -670,7 +670,7 @@ A localização no bairro Tupi oferece proximidade de escolas, vias de acesso, t
     </Listing>
     
     <Listing>
-      <ListingID>AP29044-RS1</ListingID>
+      <ListingID>AP29044</ListingID>
       <Title><![CDATA[Canto do Forte • 95 m² • 2 Dorms com Suíte • 200m da Praia • Mobiliado • Academia]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -680,7 +680,7 @@ A localização no bairro Tupi oferece proximidade de escolas, vias de acesso, t
         <ListPrice currency="BRL">586000</ListPrice>
         <PropertyAdministrationFee currency="BRL">780</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">317</Iptu>
-        <LivingArea unit="square metres">95</LivingArea>
+        <LivingArea unit="square metres">106</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Suites>1</Suites>
         <Bathrooms>2</Bathrooms>
@@ -729,9 +729,9 @@ A localização no bairro Canto do Forte se destaca por estar a aproximadamente 
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Canto do Forte</Neighborhood>
-        <Address>Avenida Marechal Hermes</Address>
-        <StreetNumber>329</StreetNumber>
-        <PostalCode>11700-250</PostalCode>
+        <Address>Rua Tiradentes</Address>
+        <StreetNumber>620</StreetNumber>
+        <PostalCode>11700-290</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3g3--xhoyY9zNc6f+GSkwmG7pmG4Pu3lkOsvbP9uqr70tzbR83i6Yw746nqTVCXral7ceIrYh5EVctVHQPrXa2hJmUKjBrTomCQRqJvHGVn4w0LvBdfzWmkR7a2qXMy-TO0EKqCoDeFY5n6GHtDQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
@@ -1411,7 +1411,7 @@ Localização a cerca de 150 metros da praia, em região com fácil acesso a ser
     </Listing>
     
     <Listing>
-      <ListingID>CA5079-CL</ListingID>
+      <ListingID>CA5079</ListingID>
       <Title><![CDATA[Guilhermina • 155 m² • 3 Dorms com Suíte • Mobiliada • 2 Vagas]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -1426,7 +1426,7 @@ A residência oferece praticidade para quem busca espaço, conforto e tranquilid
 
 Localização a aproximadamente 400 metros da praia, próxima a comércios e serviços da Guilhermina.]]></Description>
         <ListPrice currency="BRL">849000</ListPrice>
-        <LivingArea unit="square metres">155</LivingArea>
+        <LivingArea unit="square metres">173</LivingArea>
         <PropertyAdministrationFee currency="BRL">1</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">44</Iptu>
         <Bedrooms>3</Bedrooms>
@@ -1462,9 +1462,9 @@ Localização a aproximadamente 400 metros da praia, próxima a comércios e ser
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Guilhermina</Neighborhood>
-        <Address>Rua Doutor Cyro Carneiro</Address>
-        <StreetNumber>413</StreetNumber>
-        <PostalCode>11702-200</PostalCode>
+        <Address>Rua Itararé</Address>
+        <StreetNumber>598</StreetNumber>
+        <PostalCode>11701-620</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu19V7ftn7To+uPUFUJmUsgmf9KTO+fmWin+kvYj9nOLi1--zBezA9dg1y-7SPXPxiZ9cSt8kIWJbaMx3YUzycriCeVRbpRiwiGL2YORURU9U1SESrRZL7wGrDIqn72Ed3huuMPT+phKsEKngCnhARbMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
@@ -1504,7 +1504,7 @@ Localização a aproximadamente 400 metros da praia, próxima a comércios e ser
     
     
     <Listing>
-      <ListingID>AP22186-CL</ListingID>
+      <ListingID>AP22186</ListingID>
       <Title><![CDATA[Caiçara • 137 m² • 3 Suítes • Varanda Gourmet • Vista Mar • Lazer Completo • 2 Vagas]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -1514,7 +1514,7 @@ Localização a aproximadamente 400 metros da praia, próxima a comércios e ser
         <ListPrice currency="BRL">749000</ListPrice>
         <PropertyAdministrationFee currency="BRL">1000</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">400</Iptu>
-        <LivingArea unit="square metres">137</LivingArea>
+        <LivingArea unit="square metres">153</LivingArea>
         <Bedrooms>3</Bedrooms>
         <Suites>3</Suites>
         <Bathrooms>3</Bathrooms>
@@ -1568,9 +1568,9 @@ A localização no Caiçara oferece proximidade de escolas, vias de acesso, tran
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Caiçara</Neighborhood>
-        <Address>Avenida Juscelino Kubitschek de Oliveira</Address>
-        <StreetNumber>1111</StreetNumber>
-        <PostalCode>11706-440</PostalCode>
+        <Address>Rua São Benedito</Address>
+        <StreetNumber>621</StreetNumber>
+        <PostalCode>11706-250</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtux91-NBvvDExu8dEYqGklTebzL6wouzAhWGEopnrtJ782ZPZAsSG8KQ2-oL3CV+Nr4V9X8A9aXp4SO98GTnFYanYOCAOlAiRiGv9bIlHfXNSzRAwqzxx6XXiVpWS1gVh-iGUGsjjpQm3b6O6PQxjNLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
@@ -3164,7 +3164,7 @@ Aceita financiamento bancário. Consulte disponibilidade, valores atualizados e 
     </Listing>
     
     <Listing>
-      <ListingID>CA5127-CL</ListingID>
+      <ListingID>CA5127</ListingID>
       <Title><![CDATA[Vila Guilhermina • Sobrado tríplex • 111 m² • 2 suítes • Churrasqueira • 2 vagas]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -3179,7 +3179,7 @@ A planta oferece conforto, privacidade e praticidade para moradia, veraneio ou i
 
 Aceita financiamento bancário. Consulte disponibilidade, valores atualizados e condições deste imóvel.]]></Description>
         <ListPrice currency="BRL">650000</ListPrice>
-        <LivingArea unit="square metres">111</LivingArea>
+        <LivingArea unit="square metres">124</LivingArea>
         <PropertyAdministrationFee currency="BRL">1</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">332</Iptu>
         <Bedrooms>2</Bedrooms>
@@ -3212,9 +3212,9 @@ Aceita financiamento bancário. Consulte disponibilidade, valores atualizados e 
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Vila Guilhermina</Neighborhood>
-        <Address>Rua Itajubá</Address>
-        <StreetNumber>28</StreetNumber>
-        <PostalCode>11701-490</PostalCode>
+        <Address>Rua Doutor Cyro Carneiro</Address>
+        <StreetNumber>413</StreetNumber>
+        <PostalCode>11702-200</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0ppi+t0x0x7o8UiYOHlvQff0Kuewf2Z-G2fwa-usLnBx-vxdcLv9t8djoSsDVy1mY5peuYkPnt8Z852QwD7XYK7NSJ8+GGsom76aqofSXVbxgQFzzB0lVuVRLWzrE4KxS2eE6+BjQOeTbn0AnBsPLMNAdsz6EIJ9xa9SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0Qd1OmKQHiAfASbVHvxizw4fD0PCqak7UYAU88umY+fKybfz1TfigOWWtkpoCu5mVLs1OJMfrXzYXAzhnLjVRp1LkteiL+gDnZ3jWtl0VWAvE3NE=.jpg</Item>
@@ -3492,7 +3492,7 @@ Aceita financiamento bancário.]]></Description>
     
     
     <Listing>
-      <ListingID>CA1423-CL</ListingID>
+      <ListingID>CA1423</ListingID>
       <Title><![CDATA[Tupi • Sobrado • 85 m² • 2 suítes • Churrasqueira • 250 m da praia]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -3507,7 +3507,7 @@ Localização estratégica, a aproximadamente 250 metros da praia, em região pr
 
 Aceita financiamento bancário.]]></Description>
         <ListPrice currency="BRL">580000</ListPrice>
-        <LivingArea unit="square metres">85</LivingArea>
+        <LivingArea unit="square metres">95</LivingArea>
         <Iptu currency="BRL" period="Monthly">326</Iptu>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>3</Bathrooms>
@@ -3539,9 +3539,9 @@ Aceita financiamento bancário.]]></Description>
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Tupi</Neighborhood>
-        <Address>Rua Pajé</Address>
-        <StreetNumber>312</StreetNumber>
-        <PostalCode>11703-330</PostalCode>
+        <Address>Rua Carajás</Address>
+        <StreetNumber>86</StreetNumber>
+        <PostalCode>11703-740</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0k+0olh5EkyvO0LR+6A4wOV872J9YqE8ki-8suM576F1unBTNfE2tgCjr7hDUOsuIJ9H4w6FVtWTvFKRTLaXLe9YnV2r2TXvlvGU5V7HXNSxUR3sE9U+F+1DYmtxWEu3AeLGe3R+iCcHfvUNmZBT7tHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
@@ -4321,7 +4321,7 @@ Localização estratégica na Vila Guilhermina, próximo à praia.]]></Descripti
     </Listing>
     
     <Listing>
-      <ListingID>AP22315-CL</ListingID>
+      <ListingID>AP22315</ListingID>
       <Title><![CDATA[Vila Guilhermina • 68 m² • 2 dorms/1 suíte • Varanda Gourmet • 200 m da praia]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -4334,7 +4334,7 @@ O imóvel conta com varanda gourmet com churrasqueira a carvão, vista livre e b
 
 Localização estratégica na Vila Guilhermina, a aproximadamente 200 metros da praia e próxima a comércios e serviços da região. Aceita financiamento bancário.]]></Description>
         <ListPrice currency="BRL">440000</ListPrice>
-        <LivingArea unit="square metres">68</LivingArea>
+        <LivingArea unit="square metres">76</LivingArea>
         <PropertyAdministrationFee currency="BRL">648</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">329</Iptu>
         <Bedrooms>2</Bedrooms>
@@ -4383,9 +4383,9 @@ Localização estratégica na Vila Guilhermina, a aproximadamente 200 metros da 
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Vila Guilhermina</Neighborhood>
-        <Address>Rua Rubens Ferreira Martins</Address>
-        <StreetNumber>232</StreetNumber>
-        <PostalCode>11702-280</PostalCode>
+        <Address>Rua Itajubá</Address>
+        <StreetNumber>28</StreetNumber>
+        <PostalCode>11701-490</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtux5MyPRO-BIB1-QGWJXjnnC+zrqpy8+S9X3Jyp3ToYzK2fH9Ysnx87I6-4D3Tm-yr4psH4c-ak1of8ZeFB6yYLaSGFhOlCalhlScCowZTE9xjzMviU9unH7oY8n1qkBv+CiGDNHVqwWMarDjG1tlQPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
@@ -4710,7 +4710,7 @@ O condomínio oferece lazer completo, agregando conforto e praticidade para mora
     </Listing>
     
     <Listing>
-      <ListingID>AP28622-CL</ListingID>
+      <ListingID>AP28622</ListingID>
       <Title><![CDATA[Vila Guilhermina • 52 m² • 1 suíte • Varanda Gourmet • Andar alto]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -4723,7 +4723,7 @@ O imóvel fica em andar alto e conta com vista livre, oferecendo conforto e prat
 
 Localização estratégica na Vila Guilhermina, em região com boa procura na Praia Grande.]]></Description>
         <ListPrice currency="BRL">350000</ListPrice>
-        <LivingArea unit="square metres">52</LivingArea>
+        <LivingArea unit="square metres">58</LivingArea>
         <PropertyAdministrationFee currency="BRL">570</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">313</Iptu>
         <Bedrooms>1</Bedrooms>
@@ -4768,9 +4768,9 @@ Localização estratégica na Vila Guilhermina, em região com boa procura na Pr
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Vila Guilhermina</Neighborhood>
-        <Address>Rua Itararé</Address>
-        <StreetNumber>598</StreetNumber>
-        <PostalCode>11701-620</PostalCode>
+        <Address>Rua Rubens Ferreira Martins</Address>
+        <StreetNumber>232</StreetNumber>
+        <PostalCode>11702-280</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Bg2-FHxw8HiM8JBKC8iw6X7rutyIelk12T483Gh+vf6pulQenhktw+wYv2GWn8jplmeIEOIl5nPepIXxjKdd6-Gltd-h2Dj2-ibaRIXmpO-ltpsxcV2EG8TceV3lQP3DiBMa-T9AKccYv5WVpnGehHR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
@@ -4903,7 +4903,7 @@ Localização estratégica no Aviação, próximo à praia e com fácil acesso �
     </Listing>
     
     <Listing>
-      <ListingID>AP20232-RS1</ListingID>
+      <ListingID>AP20232</ListingID>
       <Title><![CDATA[Canto do Forte • 60 m² • 2 Dorms • Varanda Gourmet • Lazer Completo • Mobiliado • 1 Vaga]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -4913,7 +4913,7 @@ Localização estratégica no Aviação, próximo à praia e com fácil acesso �
         <ListPrice currency="BRL">510000</ListPrice>
         <PropertyAdministrationFee currency="BRL">445</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">285</Iptu>
-        <LivingArea unit="square metres">60</LivingArea>
+        <LivingArea unit="square metres">67</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
         <Garage>1</Garage>
@@ -4965,9 +4965,9 @@ A localização no bairro Canto do Forte oferece proximidade de escolas, vias de
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Canto do Forte</Neighborhood>
-        <Address>Rua Tiradentes</Address>
-        <StreetNumber>620</StreetNumber>
-        <PostalCode>11700-290</PostalCode>
+        <Address>Rua Rui Barbosa</Address>
+        <StreetNumber>123</StreetNumber>
+        <PostalCode>11700-170</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0c82-tDwzUlstY2Re6csCqAwYvMzs21iG+m1Kj6soGD1IbmAJjslpEz-6-CDWSIvZJKb8QXb0tcaLhEfRHyRpWBBFVQvAKu-1iTQrZHUWlP2w87jjd-wX+4ecb1xX4fywasDKnU+yfTZqnLHHt1QPlLANk18QdW9hinR0InpwcW5JO3vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwXdhMm6ccnwyRHLsb7Ba+xYCT0aOpbB-VZVI6pL+e+PHgPvmnSfjseWm+g5hO8tDZKN9aaMf0XTQUHGZ5J3BfqQD7qbmT4kzsIHbY+0JHQAjNkQ==.jpg</Item>
@@ -20984,7 +20984,7 @@ O edifício conta com estrutura de lazer.]]></Description>
 
 
     <Listing>
-      <ListingID>AP32418</ListingID>
+      <ListingID>AP32418-AL</ListingID>
       <Title><![CDATA[Boqueirão • 150 m² • 3 dorms/2 suítes • Varanda envidraçada • Planejados e 2 vagas]]></Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
@@ -20993,7 +20993,7 @@ O edifício conta com estrutura de lazer.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento à venda no Boqueirão, em Praia Grande, com 150 m² de área útil, 3 dormitórios, sendo 2 suítes, e 2 vagas de garagem, quantidade confirmada para este lote. A unidade possui móveis planejados nos dormitórios, cozinha e banheiro, favorecendo a organização interna e o aproveitamento dos espaços. A sala é distribuída para dois ambientes e conta com Varanda envidraçada, ampliando as possibilidades de uso da área social. A cozinha possui armários embutidos e a área de serviço completa a parte funcional do imóvel. O condomínio oferece elevadores, piscina e espaço kids, itens confirmados no material enviado. A metragem de 150 m² cria uma planta ampla para três dormitórios e duas suítes, atendendo bem famílias que priorizam espaço interno. As duas vagas completam a proposta residencial. O cadastro informa venda por R$ 900.000, condomínio de R$ 850 e IPTU de R$ 450 mensais. O imóvel aceita financiamento.]]></Description>
         <ListPrice currency="BRL">900000</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
+        <LivingArea unit="square metres">167</LivingArea>
         <PropertyAdministrationFee currency="BRL">850</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Monthly">450</Iptu>
         <Bedrooms>3</Bedrooms>
@@ -21044,9 +21044,9 @@ O edifício conta com estrutura de lazer.]]></Description>
         <State abbreviation="SP">São Paulo</State>
         <City>Praia Grande</City>
         <Neighborhood>Boqueirão</Neighborhood>
-        <Address>Rua Campinas</Address>
-        <StreetNumber>335</StreetNumber>
-        <PostalCode>11701-110</PostalCode>
+        <Address>Rua Fumio Miyazi</Address>
+        <StreetNumber>1212</StreetNumber>
+        <PostalCode>11701-160</PostalCode>
       </Location>
       <Media>
         <Item medium="image" caption="Foto 1" primary="true">https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0Z-+-s-3UZmzvA6X7O8gxHa-5mz5tTDsmaz1q7nuLb4yeTvWu3Gz59n3v-wKX6hrPFFSYwiAxhgbudHeTK6dKaOYElDhgCioHzOeJd0ZjdewQ0TtRBi1gWjXd2sq3MHhA2ZMLbGoxWDY5HAM31ZOd1HR9ox7ltMqBezU0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFLmqcEkxDLGOBJ40u9zoHEgPH5aUiFYQBr9L-O--OxP6-wH-ygdSWhgYsA99DcYstcMIvrQDQVACc5MDwUqVy2qvTa4hirbD-YuBAKChPH1Zw1.jpg</Item>
